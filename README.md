@@ -1,3 +1,6 @@
+[![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
+
+
 # Análisis del Censo de Perros y Gatos en Madrid (SQL)
 
 Este repositorio contiene consultas SQL utilizadas para analizar el censo de perros y gatos en la ciudad de Madrid. Los datos utilizados para este análisis provienen del portal de datos abiertos de la ciudad de Madrid y abarcan el período entre los años 2014 y 2023.
