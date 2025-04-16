@@ -1,9 +1,14 @@
 [![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
 
-
 # Análisis del Censo de Perros y Gatos en Madrid (SQL)
 
 Este repositorio contiene consultas SQL utilizadas para analizar el censo de perros y gatos en la ciudad de Madrid. Los datos utilizados para este análisis provienen del portal de datos abiertos de la ciudad de Madrid y abarcan el período entre los años 2014 y 2023.
+
+## Funcionalidades Principales:
+- Total de perros y gatos censados.
+- Distribución por distrito y por fecha.
+- Evolución anual de la población animal.
+- Análisis de crecimiento y diferencias entre distritos.
 
 ## Estructura de la Base de Datos
 
@@ -175,35 +180,3 @@ ORDER BY
     fecha, zona;
 ```
 <img width="338" alt="Screenshot 2024-05-17 at 15 56 36" src="https://github.com/BORJAMOME/censo_animales_madrid/assets/19588053/a5d173a0-1e98-437f-ac40-e8127cb6a520">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
